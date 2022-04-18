@@ -1,0 +1,34 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    display: flexbox;
+    flex-direction: column;
+    border: #000000 solid 3px;
+    max-width: 400px;
+    min-height: 20.75em;
+    border-radius: .5em;
+    padding: 2.75em 2.5em;
+    box-shadow: 0 1.5em 2.5em -.5em rgba(#000000, .1);
+}
+    p {
+      color: #2E3C40;
+      font-size: 3.5em;
+      font-weight: 600;
+      line-height: 1;
+      padding-bottom: .5em;
+      margin: 0 0 0.142857143em;
+      border-bottom: 2px solid #753BBD;
+    }
+  
+    li {
+      color: #627084;
+      text-transform: uppercase;
+      font-size: 1.125em;
+      font-weight: 700;
+      line-height: 1;
+      letter-spacing: 0.1em;
+      margin: 0 0 1.777777778em;
+    }
+  
