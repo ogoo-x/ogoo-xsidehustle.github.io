@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ogoo-xsidehustle/static/css/main.6c9a5657.css",
+    "main.js": "/ogoo-xsidehustle/static/js/main.4c0e241a.js",
+    "static/js/787.f055211e.chunk.js": "/ogoo-xsidehustle/static/js/787.f055211e.chunk.js",
+    "index.html": "/ogoo-xsidehustle/index.html",
+    "main.6c9a5657.css.map": "/ogoo-xsidehustle/static/css/main.6c9a5657.css.map",
+    "main.4c0e241a.js.map": "/ogoo-xsidehustle/static/js/main.4c0e241a.js.map",
+    "787.f055211e.chunk.js.map": "/ogoo-xsidehustle/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c9a5657.css",
+    "static/js/main.4c0e241a.js"
+  ]
+}
